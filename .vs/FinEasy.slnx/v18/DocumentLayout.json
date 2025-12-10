@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Vitor-Pessoal\\github.com\\nonaminho\\FinEasy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70096B6C-5C2D-4B0B-9B97-FFF3C82CC0F0}|FinEasy.csproj|c:\\vitor-pessoal\\github.com\\nonaminho\\fineasy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{70096B6C-5C2D-4B0B-9B97-FFF3C82CC0F0}|FinEasy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EC4CD0E6-00BA-728D-AD9E-A6B8AFD5068F}|FinEasy.csproj|c:\\vitor-pessoal\\github.com\\nonaminho\\fineasy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4CD0E6-00BA-728D-AD9E-A6B8AFD5068F}|FinEasy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4CD0E6-00BA-728D-AD9E-A6B8AFD5068F}|FinEasy.csproj|c:\\vitor-pessoal\\github.com\\nonaminho\\fineasy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC4CD0E6-00BA-728D-AD9E-A6B8AFD5068F}|FinEasy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Vitor-Pessoal\\github.com\\nonaminho\\FinEasy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Vitor-Pessoal\\github.com\\nonaminho\\FinEasy\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:29:52.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Vitor-Pessoal\\github.com\\nonaminho\\FinEasy\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinEasy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e2e1fbfa145313959d8245fbf7fc83db063288f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinEasy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinEasy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

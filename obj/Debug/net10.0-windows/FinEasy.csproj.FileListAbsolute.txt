@@ -1,0 +1,17 @@
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\bin\Debug\net10.0-windows\FinEasy.exe
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\bin\Debug\net10.0-windows\FinEasy.deps.json
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\bin\Debug\net10.0-windows\FinEasy.runtimeconfig.json
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\bin\Debug\net10.0-windows\FinEasy.dll
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\bin\Debug\net10.0-windows\FinEasy.pdb
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.Form1.resources
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.csproj.GenerateResource.cache
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.AssemblyInfoInputs.cache
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.AssemblyInfo.cs
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.csproj.CoreCompileInputs.cache
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.sourcelink.json
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.dll
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\refint\FinEasy.dll
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.pdb
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\FinEasy.genruntimeconfig.cache
+C:\Vitor-Pessoal\github.com\nonaminho\FinEasy\obj\Debug\net10.0-windows\ref\FinEasy.dll
